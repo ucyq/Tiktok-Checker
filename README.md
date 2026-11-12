@@ -3,7 +3,8 @@ TikTok Checker
 
 ## DISCLAIMER##
 
-If you want to change your thread, change self.per_proxy (line 61)
+THE CHECKER MAY TAKE A WHILE TO START (~1 MIN), PLEASE BE PATIENT!
+IF YOU WANT TO CHANGE YOUR THREAD, CHANGE: self.per_proxy (line 61)
 
 
 - Installation
