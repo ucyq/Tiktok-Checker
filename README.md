@@ -27,9 +27,15 @@ Use proxies for better performance and avoid rate limits.
 Usage of this tool for attacking targets without prior mutual consent is illegal. The end user is responsible for obeying all applicable laws. Developers assume no liability for misuse or damages.
 
 - Recommended Operating Systems
+
 Kali Linux 2 or Kali 2016.1 rolling 
+
 Cyborg
+
 Parrot 
+
 BackTrack 
+
 Backbox  
+
 Android - Trimix
