@@ -16,7 +16,7 @@ IF YOU WANT TO CHANGE YOUR THREAD, CHANGE: self.per_proxy (line 61)
    
 2. Run the checker
       bash
-   python GESSAD.py
+   python checker.py
 
 - Usage
 Run the script and it will start checking usernames automatically.
