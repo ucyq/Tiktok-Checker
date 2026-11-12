@@ -18,7 +18,7 @@ IF YOU WANT TO CHANGE YOUR THREAD, CHANGE: self.per_proxy (line 61)
       bash
    python checker.py
 
-- Usage
+- Usage:
 Run the script and it will start checking usernames automatically.
 If an available username is found, it will be saved in `available.txt`.
 
