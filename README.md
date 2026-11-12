@@ -1,7 +1,7 @@
 TikTok Checker
 ===============
 
-## DISCLAIMER##
+## DISCLAIMER ##
 
 THE CHECKER MAY TAKE A WHILE TO START (~1 MIN), PLEASE BE PATIENT!
 
